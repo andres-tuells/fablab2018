@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/andres/.platformio/penv/bin:/home/andres/.platformio/penv:/home/andres/bin:/home/andres/.local/bin:/home/andres/Tools/google-cloud-sdk/bin:/home/andres/Tools/anaconda3/bin:/home/andres/Tools/anaconda3/bin:/home/andres/.nvm/versions/node/v9.2.0/bin:/home/andres/bin:/home/andres/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/brlcad/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
